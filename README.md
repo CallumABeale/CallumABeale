@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Callum</h1>
 <h3 align="center">A frontend developer from Brisbane Australia</h3>
 
-<a href="https://app.daily.dev/cabeale"><img src="https://api.daily.dev/devcards/v2/DdBEPEINrBDl6ynYokvBK.png?type=default&r=gjv" width="356" alt="Callum Beale's Dev Card"/></a>
+<a href="https://app.daily.dev/cabeale"><img src="https://api.daily.dev/devcards/v2/DdBEPEINrBDl6ynYokvBK.png?type=wide&r=dj3" width="652" alt="Callum Beale's Dev Card"/></a>
 
 - 🔭 I’m currently working on [CABDK](https://github.com/CallumABeale/CABDK)
 
-- 🌱 I’m currently learning **Nuxt, StorybookJS, SCSS**
+- 🌱 I’m currently learning **Nuxt and StorybookJS**
 
-- 💬 Ask me about **Vue/Nuxt, Accessibility**
+- 💬 Feel free to ask me about **Vue/Nuxt, Accessibility**
 
 - 📫 How to reach me **cabeale.dev@gmail.com**
 
